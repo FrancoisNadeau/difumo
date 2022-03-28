@@ -1,0 +1,8 @@
+# nilearn>=0.9.0
+git+https://github.com/nilearn/nilearn.git
+# sklearn>=1.1.dev0
+git+https://github.com/scikit-learn/scikit-learn.git
+matplotlib
+numpy
+pandas
+

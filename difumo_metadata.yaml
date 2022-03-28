@@ -1,0 +1,18 @@
+source: https://github.com/Parietal-INRIA/DiFuMo.git
+paper:
+    authors: Kamalaker Dadi, Gaël Varoquaux, Antonia Machlouzarides-Shalit, Krzysztof Gorgolewski, Demian Wassermann, et al..
+    title: Fine-grain atlases of functional modes for fMRI analysis. NeuroImage, Elsevier, 2020, pp.117126. ⟨hal-02904869⟩
+    url: https://hal.inria.fr/hal-02904869
+    DOI: https://doi.org/10.1016/j.neuroimage.2020.117126
+    bibtex:
+    - $ref: difumo_citation.bibtex
+    abstract:
+    - $ref: difumo_abstract.txt
+host: https://parietal-inria.github.io/DiFuMo/
+downloads:
+    64: https://files.osf.io/v1/resources/k8w5s/providers/osfstorage/600fd64cdd222500e2589a1b?action=download&direct&version=1
+    128: https://files.osf.io/v1/resources/k8w5s/providers/osfstorage/600fd656dd222500d658a43d?action=download&direct&version=1
+    256: https://files.osf.io/v1/resources/k8w5s/providers/osfstorage/600fd65f75226b02c9515bc5?action=download&direct&version=1
+    512: https://files.osf.io/v1/resources/k8w5s/providers/osfstorage/600fd66add222500e2589a9e?action=download&direct&version=1
+    1024: https://files.osf.io/v1/resources/k8w5s/providers/osfstorage/600fd67275226b02ce51b0c7?action=download&direct&version=1
+
